@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidirfani&label=Profile%20views&color=0e75b6&style=flat" alt="khalidirfani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/khalidirfani" target="blank"><img src="https://img.shields.io/twitter/follow/khalidirfani?logo=twitter&style=for-the-badge" alt="khalidirfani" /></a> </p>
+<p align="left"> <a href="https://twitter.com/khalid_irfani" target="blank"><img src="https://img.shields.io/twitter/follow/khalid_irfani?logo=twitter&style=for-the-badge" alt="khalid_irfani" /></a> </p>
 
 - 🔭 I’m currently working on **Quiz App**
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/khalidirfani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khalidirfani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khalid irfani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid irfani" height="30" width="40" /></a>
+<a href="https://twitter.com/khalid_irfani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khalid_irfani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khalid-irfani-145321205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid-irfani-145321205" height="30" width="40" /></a>
 <a href="https://fb.com/khalid irfani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid irfani" height="30" width="40" /></a>
 <a href="https://instagram.com/fani_481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fani_481" height="30" width="40" /></a>
 </p>
@@ -33,5 +33,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalidirfani&show_icons=true&locale=en" alt="khalidirfani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalidirfani&" alt="khalidirfani" /></p>
+
+
+
 
 
