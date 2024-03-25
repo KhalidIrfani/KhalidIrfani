@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/khalid_irfani" target="blank"><img src="https://img.shields.io/twitter/follow/khalid_irfani?logo=twitter&style=for-the-badge" alt="khalid_irfani" /></a> </p>
 
-- 🔭 I’m currently working on **Quiz App**
+- 🔭 I’m currently working on **React.js or Next.js**
 
 - 🌱 I’m currently learning **Next.js, React native**
 
