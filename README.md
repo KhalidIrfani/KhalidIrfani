@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=khalidirfani&color=4F7EF7&style=flat-square&label=Profile+Views)](https://github.com/khalidirfani)
 [![Twitter Follow](https://img.shields.io/twitter/follow/khalid_irfani?style=flat-square&color=4F7EF7&logo=twitter)](https://twitter.com/khalid_irfani)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F7EF7?style=flat-square&logo=linkedin)]([https://linkedin.com/in/khalid-irfani-145321205](https://www.linkedin.com/in/muhammad-khalid-irfani-145321205/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F7EF7?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-khalid-irfani-145321205/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4F7EF7?style=flat-square&logo=vercel)](https://portfolio-eta-six-10.vercel.app/)
 
 </div>
