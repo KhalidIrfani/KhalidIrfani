@@ -1,40 +1,116 @@
-<h1 align="center">Hi 👋, I'm M.Khalid Irfani</h1>
-<h3 align="center">A Mern Stack Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidirfani&label=Profile%20views&color=0e75b6&style=flat" alt="khalidirfani" /> </p>
+# Hey, I'm Khalid Irfani 👋
 
-<p align="left"> <a href="https://twitter.com/khalid_irfani" target="blank"><img src="https://img.shields.io/twitter/follow/khalid_irfani?logo=twitter&style=for-the-badge" alt="khalid_irfani" /></a> </p>
+### Full Stack Developer · Next.js · Shopify · AI Automation
 
-- 🔭 I’m currently working on **React.js or Next.js**
+[![Profile Views](https://komarev.com/ghpvc/?username=khalidirfani&color=4F7EF7&style=flat-square&label=Profile+Views)](https://github.com/khalidirfani)
+[![Twitter Follow](https://img.shields.io/twitter/follow/khalid_irfani?style=flat-square&color=4F7EF7&logo=twitter)](https://twitter.com/khalid_irfani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F7EF7?style=flat-square&logo=linkedin)](https://linkedin.com/in/khalid-irfani-145321205)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4F7EF7?style=flat-square&logo=vercel)](https://portfolio-eta-six-10.vercel.app/)
 
-- 🌱 I’m currently learning **Next.js, React native**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-eta-six-10.vercel.app/](https://portfolio-eta-six-10.vercel.app/)
+---
 
-- 💬 Ask me about **Mern Stack, React.js**
+## About Me
 
-- 📫 How to reach me **khalidirfani1234@gmail.com**
+I'm a **Full Stack Developer** based in Pakistan, building modern web applications, Shopify stores, and AI-powered systems for startups and businesses worldwide. I focus on clean architecture, performance, and solutions that actually grow with your business.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kGJn6i4O1Q1uuRwtIZfTSgKjjs6rR145/view?usp=drive_link](https://drive.google.com/file/d/1kGJn6i4O1Q1uuRwtIZfTSgKjjs6rR145/view?usp=drive_link)
+- 🔭 Currently working on **Next.js SaaS apps & AI automation systems**
+- 🤖 Deep diving into **LLMs, LangChain, n8n, and OpenAI API integrations**
+- 🛍️ Building **custom Shopify themes** and conversion-focused stores
+- 🌱 Exploring **React Native** for cross-platform mobile development
+- 💬 Ask me about **Full Stack Development, Shopify, or AI Automation**
+- 📫 Reach me at **khalidirfani1234@gmail.com**
+- 📄 View my [Resume](https://drive.google.com/file/d/1kGJn6i4O1Q1uuRwtIZfTSgKjjs6rR145/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/khalid_irfani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khalid_irfani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khalid-irfani-145321205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid-irfani-145321205" height="30" width="40" /></a>
-<a href="https://fb.com/khalid irfani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid irfani" height="30" width="40" /></a>
-<a href="https://instagram.com/fani_481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fani_481" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalidirfani&show_icons=true&locale=en&layout=compact" alt="khalidirfani" /></p>
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalidirfani&show_icons=true&locale=en" alt="khalidirfani" /></p>
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalidirfani&" alt="khalidirfan" /></p>
+### Shopify & CMS
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
+### AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square&logo=chainlink&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
+### Cloud & Tools
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+---
 
+## What I Build
 
+```
+🛍️  Shopify Stores      →  Custom Liquid themes, app integrations, CRO
+⚡  Web Applications    →  SaaS dashboards, admin panels, landing pages
+🤖  AI Systems          →  Chatbots, LLM tools, RAG pipelines, n8n workflows
+🔗  API Integrations    →  REST APIs, third-party services, automation
+☁️  Cloud Deployments   →  Vercel, AWS, Docker, CI/CD pipelines
+```
+
+---
+
+## GitHub Stats
+
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalidirfani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="margin:6px;"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidirfani&layout=compact&langs_count=8&theme=tokyonight" style="margin:6px;"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khalidirfani&theme=tokyonight)](https://github.com/khalidirfani)
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-4F7EF7?style=for-the-badge)](https://portfolio-eta-six-10.vercel.app/)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge)](mailto:khalidirfani1234@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khalid-irfani-145321205)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khalid_irfani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fani_481)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Open to freelance projects, collaborations, and full-time opportunities.</i><br/>
+  <b>Let's build something great together.</b>
+</div>
